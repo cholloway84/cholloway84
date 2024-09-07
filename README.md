@@ -2,8 +2,7 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Build-out of SOC + Honeynet in Azure (w/Live Traffic)</b>
-  - [test](https://www.linkedin.com/in/clhjr/)
+- <a href="https://github.com/cholloway84/Azure---SOC/tree/main"><b>Build-out of SOC + Honeynet in Azure (w/Live Traffic)</a></b>
 
 <h2>💿 Software Development Projects</h2>
 - COMING SOON!
